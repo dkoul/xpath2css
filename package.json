@@ -1,0 +1,28 @@
+{
+    "name": "xpath-to-css-converter",
+    "displayName": "XPath to CSS Converter",
+    "description": "Convert selected XPath to CSS Selector",
+    "icon": "icon.png",
+    "version": "0.0.6",
+    "publisher": "DeepakKoul",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "activationEvents": [
+    ],
+    "main": "./src/extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "extension.convertXPathToCSS",
+                "title": "Convert XPath to CSS"
+            }
+        ]
+    },
+    "devDependencies": {
+        "vscode": "^1.50.0"
+    },
+    "dependencies": {
+        "xpath-to-css": "^1.2.0"
+    }
+}
