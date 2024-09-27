@@ -1,9 +1,9 @@
-# xpath2css is an XPath to CSS Converter VS Code Extension
+# xpath2css is an XPath to CSS Converter VSCode Extension
 
 This VS Code extension allows you to easily convert a selected XPath expression to its corresponding CSS selector. It simplifies web development and automation tasks by providing a quick way to translate XPaths into CSS selectors, which can be directly used in front-end testing, web scraping, or styling.
 
 # Installation
-From VS Code [Marketplace] (https://marketplace.visualstudio.com/items?itemName=DeepakKoul.xpath-to-css-converter&ssr=false#overview)
+From VS Code [Marketplace](https://marketplace.visualstudio.com/items?itemName=DeepakKoul.xpath-to-css-converter&ssr=false#overview)
 
 
 # Usage
@@ -34,7 +34,7 @@ If you encounter any bugs or have feature requests, please feel free to open an 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgments
-The xpath-to-css [library] (https://github.com/santiycr/cssify) for handling the conversion logic.
+The xpath-to-css [library](https://github.com/santiycr/cssify) for handling the conversion logic.
 
 # Future Enhancements
 Add support for XPath with namespaces.
